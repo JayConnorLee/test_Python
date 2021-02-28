@@ -1,0 +1,42 @@
+
+{
+  "id": 11,
+  "name": "test01",
+  "description": "",
+  "lockerId": 2,
+  "ownerId": 2,
+  "attributes": [
+    {   
+      "id": 60,
+      "name": "id",
+      "description": "",
+      "userProvided": true,
+      "masked": false,
+      "createdBy": 2,
+      "createdOn": "2019-10-27T07:41:08.844Z",
+      "updatedBy": 2,
+      "updatedOn": "2019-10-27T07:41:08.844Z",
+      "version": 0,
+      "passwordFlag": false
+    },
+    {
+      "id": 61,
+      "name": "pw",
+      "description": "",
+      "userProvided": true,
+      "masked": false,
+      "createdBy": 2,
+      "createdOn": "2019-10-27T07:41:08.844Z",
+      "updatedBy": 2,
+      "updatedOn": "2019-10-27T07:41:08.844Z",
+      "version": 0,
+      "passwordFlag": true
+    }
+  ],
+  "createdBy": 2,
+  "createdOn": "2019-10-27T07:41:08.844Z",
+  "updatedBy": 2,
+  "updatedOn": "2019-10-27T07:41:08.991Z",
+  "version": 1,
+  "completed": false
+}

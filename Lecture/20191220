@@ -1,0 +1,26 @@
+
+
+
+Python(=JDK/JRE)
+    Instruction :
+        1. Method :
+            Install Anaconda    : IDE
+            Spider              :
+            Jupyter             : interpreter
+            
+            Pros : automatically import every required library
+
+        2. Method :
+            1. Install Python
+            2. Pycharm(=Eclipse)
+
+            3. have to install neccesary library
+
+        3. PyDev(Can be used in Eclipse)
+
+    
+    Scraper
+        Crawling
+            Selenium
+            Scrapy
+            
